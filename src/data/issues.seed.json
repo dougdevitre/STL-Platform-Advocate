@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fair-assessments",
+    "title": "Fair Assessments",
+    "slug": "fair-assessments",
+    "summary": "Ensure consistent valuation standards across neighborhoods and property classes.",
+    "keyPoints": [
+      "The real estate market changes faster than policy and systems can keep up",
+      "We need consistent valuation standards across all neighborhoods",
+      "Fairness for both residential and commercial property classes"
+    ],
+    "whyItMatters": [
+      "Inconsistent assessments lead to unfair tax burdens",
+      "Every property owner deserves to be treated equally under the law"
+    ],
+    "shareTags": ["#FairAssessments", "#STLCoco", "#DaveForAssessor"]
+  },
+  {
+    "id": "proactive-service",
+    "title": "Proactive Service",
+    "slug": "proactive-service",
+    "summary": "Improve communication with property owners before reassessment cycles to reduce confusion and appeals.",
+    "keyPoints": [
+      "Communicate with property owners before reassessment cycles",
+      "Reduce confusion and the need for appeals",
+      "My door is open, my phone is on"
+    ],
+    "whyItMatters": [
+      "Homeowners and business owners deserve expertise, competence, and communication",
+      "Proactive outreach builds trust in the Assessor's office"
+    ],
+    "shareTags": ["#ProactiveService", "#STLCoco", "#DaveForAssessor"]
+  },
+  {
+    "id": "accurate-data",
+    "title": "Accurate Data",
+    "slug": "accurate-data",
+    "summary": "Invest in updated systems and modern valuation tools to improve reliability and reduce errors.",
+    "keyPoints": [
+      "Invest in updated systems and modern valuation tools",
+      "Improve reliability and reduce errors in property valuation",
+      "Use national best practices and technology"
+    ],
+    "whyItMatters": [
+      "Accurate data is the foundation of a fair assessment",
+      "Errors in valuation directly impact the taxes individuals and businesses pay"
+    ],
+    "shareTags": ["#AccurateData", "#STLCoco", "#DaveForAssessor"]
+  },
+  {
+    "id": "transparent-process",
+    "title": "Transparent Process",
+    "slug": "transparent-process",
+    "summary": "Provide clearer explanations of valuation methodology and easier access to appeal information.",
+    "keyPoints": [
+      "Provide clearer explanations of how values are determined",
+      "Make access to appeal information easier",
+      "Be a fair and honest dealer in leading the Assessor's office"
+    ],
+    "whyItMatters": [
+      "Transparency is essential for public trust",
+      "Residents should understand how their property values are calculated"
+    ],
+    "shareTags": ["#Transparency", "#STLCoco", "#DaveForAssessor"]
+  },
+  {
+    "id": "proven-experience",
+    "title": "Proven Experience",
+    "slug": "proven-experience",
+    "summary": "Bringing real estate expertise, business leadership, and economic development experience to the Assessor's office.",
+    "keyPoints": [
+      "Real Estate Professional and Appraiser",
+      "MBA from Washington University in St. Louis and Eagle Scout",
+      "Former Project Leader at Greater St. Louis, Inc. driving regional economic growth"
+    ],
+    "whyItMatters": [
+      "The Assessor's office requires technical competence, not just political connections",
+      "Dave's background ensures he understands both residential and commercial property impacts"
+    ],
+    "shareTags": ["#ExperienceMatters", "#STLCoco", "#DaveForAssessor"]
+  }
+]
